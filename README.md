@@ -10,6 +10,8 @@ It only works for Best Buy product pages. Also it probably won't work with combo
 
 #### HOW TO USE ####
 
+You will need python and Beautifulsoup installed. The program will run off the terminal.
+
 It will ask for your User Agent. Just enter "my user agent" on google then copy and paste it in the terminal.
 
 I"ve checked and it works on other Best Buy pages. (Doesn't work on phones. Will figure out why and fix.) Just copy the URL into the code.
@@ -23,3 +25,5 @@ Eventually...
 I'd like to be able to add support for other websites like Amazon.
 
 I plan to add a way so it asks how which urls you would like to check instead of going into the code to change them.
+
+Insteaed of running in the terminal, have it run as a desktop app.
