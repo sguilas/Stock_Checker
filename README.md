@@ -14,6 +14,8 @@ It will ask for your User Agent. Just enter "my user agent" on google then copy 
 
 I"ve checked and it works on other Best Buy pages. (Doesn't work on phones. Will figure out why and fix.) Just copy the URL into the code.
 
+If you want to change how often it checks the product pages then just change the "Often" variable.
+
 ####
 
 Eventually...
